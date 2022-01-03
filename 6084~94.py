@@ -80,10 +80,10 @@
 # for i in range(n-1, -1, -1):
 #     print(a[i],end=' ') #내림차순
 #6094
-n = int(input())
-a = input().split()
-for i in range(n):
-    a[i] = int(a[i])
-print(min(a))
+# n = int(input())
+# a = input().split()
+# for i in range(n):
+#     a[i] = int(a[i])
+# print(min(a)) # 94번까지 완료
 
 
